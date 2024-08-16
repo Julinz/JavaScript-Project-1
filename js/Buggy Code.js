@@ -7,3 +7,8 @@ function printArray(number) {
   
     return newArray;
   }
+
+
+  function cubes(a) {
+	retunr a ** 3
+}
